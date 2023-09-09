@@ -1,0 +1,17 @@
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\bin\Debug\net6.0\act3 ahorcado.exe
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\bin\Debug\net6.0\act3 ahorcado.deps.json
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\bin\Debug\net6.0\act3 ahorcado.runtimeconfig.json
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\bin\Debug\net6.0\act3 ahorcado.dll
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\bin\Debug\net6.0\act3 ahorcado.pdb
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.csproj.AssemblyReference.cache
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.AssemblyInfoInputs.cache
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.AssemblyInfo.cs
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.csproj.CopyComplete
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.dll
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\refint\act3 ahorcado.dll
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.pdb
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\act3 ahorcado.genruntimeconfig.cache
+C:\Users\consulta\Desktop\emilAct copiladores\act3 ahorcado\act3 ahorcado\obj\Debug\net6.0\ref\act3 ahorcado.dll
